@@ -1,6 +1,9 @@
 # Lisa Yu | Software Engineer & AI/ML Enthusiast
 
 Aspiring software engineer with hands-on experience building full-stack applications, machine learning projects, and secure software systems.
+🎓 Computer Science at San Jose State University
+💻 Interests: Web Development, Machine Learning, Computer Networks
+🌱 Currently learning: Cybersecurity
 
 ## 📫 Contact Information
 - Email: lisayu198@gmail.com
